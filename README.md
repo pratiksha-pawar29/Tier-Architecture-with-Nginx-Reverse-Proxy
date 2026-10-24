@@ -8,8 +8,7 @@ This project demonstrates a two-tier web architecture on AWS using EC2 instances
 
 ## Architecture
 
-![AWS 2-Tier Architecture with Nginx Reverse Proxy]
-(./Architecture.jgp)
+![AWS 2-Tier Architecture with Nginx Reverse Proxy](./Architecture.jgp)
 
 
 Technologies Used
