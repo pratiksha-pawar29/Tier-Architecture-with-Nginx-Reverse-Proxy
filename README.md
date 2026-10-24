@@ -8,7 +8,8 @@ This project demonstrates a two-tier web architecture on AWS using EC2 instances
 
 Architecture
 
-"AWS 2-Tier Architecture" (./Architecture.jpg)
+"AWS 2-Tier Architecture" 
+(Architecture.jpg)
 
 Technologies Used
 
