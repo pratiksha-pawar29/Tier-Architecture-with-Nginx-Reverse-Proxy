@@ -6,9 +6,11 @@ Project Overview
 
 This project demonstrates a two-tier web architecture on AWS using EC2 instances and Nginx as a reverse proxy. The frontend Nginx server receives HTTP requests and forwards them to a backend web server over a private network.
 
+
+
 ## Architecture
 
-![AWS 2-Tier Architecture with Nginx Reverse Proxy]( ./Architecture.jgp)
+![AWS 2-Tier Architecture with Nginx Reverse Proxy](./Architecture.png)
 
 
 Technologies Used
